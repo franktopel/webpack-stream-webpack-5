@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp",
     "ws": "gulp webpack-stream",
     "ws-wp5": "gulp webpack-stream-webpack-5"
   },
