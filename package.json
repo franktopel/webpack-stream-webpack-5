@@ -1,0 +1,19 @@
+{
+  "name": "webpack-stream-webpack-5",
+  "version": "1.0.0",
+  "description": "Using webpack-stream with the new webpack 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ws": "gulp webpack-stream",
+    "ws-wp5": "gulp webpack-stream-webpack-5"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-rename": "^2.0.0",
+    "webpack": "^5.2.0",
+    "webpack-stream": "^6.1.0"
+  }
+}
