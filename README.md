@@ -1,5 +1,5 @@
 # webpack-stream-webpack-5
-Small reproducer showcasing a problem using webpack 5 in webpack-stream
+Small reproducer showcasing a problem using [webpack 5](https://github.com/webpack/webpack) in [webpack-stream](https://github.com/shama/webpack-stream)
 
 ## Explainer
 
