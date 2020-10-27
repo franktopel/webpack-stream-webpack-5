@@ -5,7 +5,7 @@ export class MyComponent extends HTMLElement {
   }
   
   connectedCallback() {
-    console.log('I'm alive');
+    console.log(`I'm alive`);
   }
 }
 
