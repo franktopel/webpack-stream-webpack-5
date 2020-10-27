@@ -1,5 +1,5 @@
 # Update: The mistake was on my side. 
-## The imported componet accidentally had no code in it, so webpack 5 even produces the better result. As there is no code to really execute, it correctly produces an empty bundle.
+## The only imported component accidentally had no code in it, so webpack 5 even produces the better result. As there is no code to really execute, it correctly produces an empty bundle.
 
 # webpack-stream-webpack-5
 Small reproducer showcasing a problem using [webpack 5](https://github.com/webpack/webpack) in [webpack-stream](https://github.com/shama/webpack-stream)
